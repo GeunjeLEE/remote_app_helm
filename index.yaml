@@ -11,4 +11,15 @@ entries:
     urls:
     - https://github.com/GeunjeLEE/remote_app_helm/releases/download/buildachart-0.1.0/buildachart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-29T07:30:41.905332247Z"
+  subbuildachart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-29T08:40:11.305093061Z"
+    description: A Helm chart for Kubernetes
+    digest: 5655c615c39e51383d106e1f2206f1143acee3c7b7b3fc353278c1b535716319
+    name: subbuildachart
+    type: application
+    urls:
+    - https://github.com/GeunjeLEE/remote_app_helm/releases/download/subbuildachart-0.1.0/subbuildachart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-29T08:40:11.305098661Z"
